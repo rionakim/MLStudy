@@ -1,0 +1,11 @@
+Hypothesis
+
+Cost function
+
+Gradient descent algorithm
+
+input 이 여러개가 될 경우.....허허허허
+여러개의 데이터로 결과값을 예측하고 싶다(feature가 여러개에요!)
+
+H(X1, X2, X3) = W1X1 + W2X2 + W3X3 + b
+(이래서 행렬의 공부가 필요해..)matrix
